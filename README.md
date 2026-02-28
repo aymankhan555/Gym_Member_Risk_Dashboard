@@ -62,9 +62,9 @@ Detailed breakdown including:
 - Days Since Last Visit
 - Membership Type
 - Risk Level
+Enables targeted retention campaigns.
 
-
-🛠️ Tools & Technologies:
+# 🛠️ Tools & Technologies:
 - Power BI
 - Data Modeling
 - DAX Measures
