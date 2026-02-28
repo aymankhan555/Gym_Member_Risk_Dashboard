@@ -91,6 +91,5 @@ Enables targeted retention campaigns.
 ![Titan Edge Dashboard](dashboard_pic.png)
 
 👤 Author
-
-Albi Khan
-Aspiring Data Analyst | ML Enthusiast 
+- Ayman Khan
+- Aspiring Data Analyst | ML Enthusiast 
